@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Yoruba Liberty Radio",
+  "description": "Iroyin Itaniji - The official mobile app for the International Shortwave Broadcasting Service. Listen live, catch up on podcasts, and read the latest news from the Yoruba community worldwide.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
